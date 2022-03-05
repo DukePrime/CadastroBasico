@@ -168,7 +168,7 @@ namespace Dio.TechSystem
             Console.WriteLine("|-----------------------------------------------------|");
 			Console.WriteLine("|#DIO.TechSystem plataforma de serviços tecnologicos #|");
             Console.WriteLine("|-----------------------------------------------------|");
-			Console.WriteLine("|          Informe o número opção desejada:           |");
+			Console.WriteLine("|          Informe a opção desejada:                  |");
             Console.WriteLine("|-----------------------------------------------------|");
             Console.WriteLine("|                                                     |");
 			Console.WriteLine("|                [1] Listar serviços                  |");
