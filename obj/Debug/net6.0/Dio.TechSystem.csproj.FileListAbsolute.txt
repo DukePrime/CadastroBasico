@@ -1,0 +1,15 @@
+C:\Projetos\DIO\Dio.TechSystem\bin\Debug\net6.0\Dio.TechSystem.exe
+C:\Projetos\DIO\Dio.TechSystem\bin\Debug\net6.0\Dio.TechSystem.deps.json
+C:\Projetos\DIO\Dio.TechSystem\bin\Debug\net6.0\Dio.TechSystem.runtimeconfig.json
+C:\Projetos\DIO\Dio.TechSystem\bin\Debug\net6.0\Dio.TechSystem.dll
+C:\Projetos\DIO\Dio.TechSystem\bin\Debug\net6.0\Dio.TechSystem.pdb
+C:\Projetos\DIO\Dio.TechSystem\obj\Debug\net6.0\Dio.TechSystem.csproj.AssemblyReference.cache
+C:\Projetos\DIO\Dio.TechSystem\obj\Debug\net6.0\Dio.TechSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DIO\Dio.TechSystem\obj\Debug\net6.0\Dio.TechSystem.AssemblyInfoInputs.cache
+C:\Projetos\DIO\Dio.TechSystem\obj\Debug\net6.0\Dio.TechSystem.AssemblyInfo.cs
+C:\Projetos\DIO\Dio.TechSystem\obj\Debug\net6.0\Dio.TechSystem.csproj.CoreCompileInputs.cache
+C:\Projetos\DIO\Dio.TechSystem\obj\Debug\net6.0\Dio.TechSystem.dll
+C:\Projetos\DIO\Dio.TechSystem\obj\Debug\net6.0\refint\Dio.TechSystem.dll
+C:\Projetos\DIO\Dio.TechSystem\obj\Debug\net6.0\Dio.TechSystem.pdb
+C:\Projetos\DIO\Dio.TechSystem\obj\Debug\net6.0\Dio.TechSystem.genruntimeconfig.cache
+C:\Projetos\DIO\Dio.TechSystem\obj\Debug\net6.0\ref\Dio.TechSystem.dll
