@@ -23,7 +23,7 @@ APP de cadastro em memória desenvolvido com C#, consiste na Implementação de 
 
 <div>
         <img align="center" alt="Ed-pic" height="300" style="border-radius:150px;" src="img\menu.png">
-        <img align="right" alt="Ed-pic" height="300" style="border-radius:150px;" src="img\Enum.png">
+        <img align="center" alt="Ed-pic" height="300" style="border-radius:150px;" src="img\Enum.png">
         <img align="right" alt="Ed-pic" height="300" style="border-radius:200px;" src="img\Descriçao.png">
 
         
